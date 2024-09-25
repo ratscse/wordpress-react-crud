@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "wp-scripts start ./assets/settings/main.js --output-path=./assets/settingsOutput"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.0.2"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.26.2"
+  }
+}
